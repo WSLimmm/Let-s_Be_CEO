@@ -20,6 +20,7 @@ import { locations } from './components/Map/Locates';
 import Infomation from './components/Map/Infomation';
 import { useState } from 'react';
 
+// fuck
 function App() {
   const [place, setPlace] = useState("기본")
   
